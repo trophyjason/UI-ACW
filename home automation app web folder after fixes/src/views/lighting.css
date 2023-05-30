@@ -1,0 +1,395 @@
+.lighting-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.lighting-lighting {
+  width: 387px;
+  height: 844px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.lighting-i-phone141 {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.lighting-navlink {
+  display: contents;
+}
+.lighting-rectangle7 {
+  top: 256px;
+  left: 28px;
+  width: 156px;
+  height: 157px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+.lighting-androidstatusbar {
+  top: 9px;
+  left: 16px;
+  width: 364px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.lighting-background {
+  top: 0px;
+  left: 0px;
+  width: 364px;
+  height: 22px;
+  position: absolute;
+}
+.lighting-icons {
+  gap: 6px;
+  top: 5px;
+  left: 281.477783203125px;
+  width: 70px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.lighting-cellular {
+  width: 18px;
+  height: 12px;
+}
+.lighting-wifi {
+  width: 16px;
+  height: 12px;
+}
+.lighting-battery {
+  width: 24px;
+  height: 12px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.lighting-union {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 12px;
+  opacity: 0.40;
+  position: absolute;
+}
+.lighting-capacity {
+  top: 2.117645263671875px;
+  left: 1.9730321168899536px;
+  width: 18px;
+  height: 8px;
+  position: absolute;
+  border-radius: 1.3333333730697632px;
+}
+.lighting-text {
+  top: 3.6666667461395264px;
+  left: 12.133333206176758px;
+  color: var(--dl-color-wireframes_colors_text-legibility-highemphasis);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lighting-navlink1 {
+  display: contents;
+}
+.lighting-container1 {
+  top: 256px;
+  left: 207px;
+  width: 156px;
+  height: 157px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  text-decoration: none;
+}
+.lighting-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 156px;
+  height: 157px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.lighting-vector {
+  top: 77px;
+  left: 30px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+.lighting-text02 {
+  color: rgba(0, 0, 0, 1);
+  right: 31.885414123535156px;
+  bottom: 47.33333206176758px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lighting-text04 {
+  top: 31px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lighting-vector1 {
+  top: 334px;
+  left: 55px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+.lighting-text06 {
+  top: 341px;
+  left: 116px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lighting-rectangle2 {
+  top: 837px;
+  left: 135px;
+  width: 120px;
+  height: 7px;
+  position: absolute;
+  border-radius: 10px;
+}
+.lighting-text08 {
+  top: 60px;
+  left: 130px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Bold;
+  text-align: center;
+  font-family: Comfortaa;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lighting-text10 {
+  top: 287px;
+  left: 79px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lighting-ellipse1 {
+  top: 117px;
+  left: 149px;
+  width: 92px;
+  height: 92px;
+  position: absolute;
+}
+.lighting-androidstatusbar1 {
+  top: 9px;
+  left: 16px;
+  width: 364px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.lighting-background1 {
+  top: 0px;
+  left: 0px;
+  width: 364px;
+  height: 22px;
+  position: absolute;
+}
+.lighting-icons1 {
+  gap: 6px;
+  top: 5px;
+  left: 281.477783203125px;
+  width: 70px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.lighting-cellular1 {
+  width: 18px;
+  height: 12px;
+}
+.lighting-wifi1 {
+  width: 16px;
+  height: 12px;
+}
+.lighting-battery1 {
+  width: 24px;
+  height: 12px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.lighting-union1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 12px;
+  opacity: 0.40;
+  position: absolute;
+}
+.lighting-capacity1 {
+  top: 2.117645263671875px;
+  left: 1.9730321168899536px;
+  width: 18px;
+  height: 8px;
+  position: absolute;
+  border-radius: 1.3333333730697632px;
+}
+.lighting-text12 {
+  top: 3.6666667461395264px;
+  left: 12.133333206176758px;
+  color: var(--dl-color-wireframes_colors_text-legibility-highemphasis);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lighting-androidnavbar {
+  top: 796px;
+  left: 0px;
+  width: 390px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.lighting-rectangle21 {
+  top: 837px;
+  left: 135px;
+  width: 120px;
+  height: 7px;
+  position: absolute;
+  border-radius: 10px;
+}
+.lighting-vector2 {
+  top: 140px;
+  left: 172px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.lighting-navlink2 {
+  display: contents;
+}
+.lighting-vector3 {
+  top: 60px;
+  left: 35px;
+  width: 20px;
+  height: 35px;
+  position: absolute;
+  text-decoration: none;
+}
+.lighting-text14 {
+  top: 95px;
+  left: 29px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lighting-text16 {
+  top: 95px;
+  left: 322px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lighting-navlink3 {
+  display: contents;
+}
+.lighting-vector4 {
+  top: 60px;
+  left: 327px;
+  width: 29px;
+  height: 32px;
+  position: absolute;
+  text-decoration: none;
+}

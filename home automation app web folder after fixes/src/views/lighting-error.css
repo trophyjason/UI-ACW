@@ -1,0 +1,411 @@
+.lighting-error-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.lighting-error-lighting {
+  width: 393px;
+  height: 844px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.lighting-error-i-phone141 {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  bottom: 0px;
+  height: 844px;
+  margin: auto;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.lighting-error-text {
+  top: 548px;
+  left: 44px;
+  position: absolute;
+  font-size: 20px;
+  text-align: center;
+}
+.lighting-error-text01 {
+  color: #ff0909;
+}
+.lighting-error-text02 {
+  color: #ff0909;
+}
+.lighting-error-text03 {
+  color: #ff0909;
+}
+.lighting-error-text04 {
+  color: #ff0909;
+}
+.lighting-error-text05 {
+  color: #ff0909;
+}
+.lighting-error-navlink {
+  top: 624px;
+  left: 130px;
+  width: 125px;
+  height: 41px;
+  margin: auto;
+  position: absolute;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+}
+.lighting-error-rectangle7 {
+  top: 256px;
+  left: 28px;
+  width: 156px;
+  height: 157px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.lighting-error-androidstatusbar {
+  top: 9px;
+  left: 16px;
+  width: 364px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.lighting-error-background {
+  top: 0px;
+  left: 0px;
+  width: 364px;
+  height: 22px;
+  position: absolute;
+}
+.lighting-error-icons {
+  gap: 6px;
+  top: 5px;
+  left: 281.477783203125px;
+  width: 70px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.lighting-error-cellular {
+  width: 18px;
+  height: 12px;
+}
+.lighting-error-wifi {
+  width: 16px;
+  height: 12px;
+}
+.lighting-error-battery {
+  width: 24px;
+  height: 12px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.lighting-error-union {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 12px;
+  opacity: 0.40;
+  position: absolute;
+}
+.lighting-error-capacity {
+  top: 2.117645263671875px;
+  left: 1.9730321168899536px;
+  width: 18px;
+  height: 8px;
+  position: absolute;
+  border-radius: 1.3333333730697632px;
+}
+.lighting-error-text07 {
+  top: 3.6666667461395264px;
+  left: 12.133333206176758px;
+  color: var(--dl-color-wireframes_colors_text-legibility-highemphasis);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lighting-error-container1 {
+  top: 256px;
+  left: 207px;
+  width: 156px;
+  height: 157px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.lighting-error-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 156px;
+  height: 157px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.lighting-error-vector {
+  top: 77px;
+  left: 30px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+.lighting-error-text09 {
+  color: rgba(0, 0, 0, 1);
+  right: 31.885414123535156px;
+  bottom: 47.33333206176758px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lighting-error-text11 {
+  top: 31px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lighting-error-vector1 {
+  top: 334px;
+  left: 55px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+.lighting-error-text13 {
+  top: 341px;
+  left: 116px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lighting-error-rectangle2 {
+  top: 837px;
+  left: 135px;
+  width: 120px;
+  height: 7px;
+  position: absolute;
+  border-radius: 10px;
+}
+.lighting-error-text15 {
+  top: 60px;
+  left: 130px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Bold;
+  text-align: center;
+  font-family: Comfortaa;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lighting-error-text17 {
+  top: 287px;
+  left: 79px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.lighting-error-ellipse1 {
+  top: 117px;
+  left: 149px;
+  width: 92px;
+  height: 92px;
+  position: absolute;
+}
+.lighting-error-androidstatusbar1 {
+  top: 9px;
+  left: 16px;
+  width: 364px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.lighting-error-background1 {
+  top: 0px;
+  left: 0px;
+  width: 364px;
+  height: 22px;
+  position: absolute;
+}
+.lighting-error-icons1 {
+  gap: 6px;
+  top: 5px;
+  left: 281.477783203125px;
+  width: 70px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.lighting-error-cellular1 {
+  width: 18px;
+  height: 12px;
+}
+.lighting-error-wifi1 {
+  width: 16px;
+  height: 12px;
+}
+.lighting-error-battery1 {
+  width: 24px;
+  height: 12px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.lighting-error-union1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 12px;
+  opacity: 0.40;
+  position: absolute;
+}
+.lighting-error-capacity1 {
+  top: 2.117645263671875px;
+  left: 1.9730321168899536px;
+  width: 18px;
+  height: 8px;
+  position: absolute;
+  border-radius: 1.3333333730697632px;
+}
+.lighting-error-text19 {
+  top: 3.6666667461395264px;
+  left: 12.133333206176758px;
+  color: var(--dl-color-wireframes_colors_text-legibility-highemphasis);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lighting-error-androidnavbar {
+  top: 796px;
+  left: 0px;
+  width: 390px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.lighting-error-rectangle21 {
+  top: 837px;
+  left: 135px;
+  width: 120px;
+  height: 7px;
+  position: absolute;
+  border-radius: 10px;
+}
+.lighting-error-vector2 {
+  top: 140px;
+  left: 172px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.lighting-error-vector3 {
+  top: 60px;
+  left: 35px;
+  width: 20px;
+  height: 35px;
+  position: absolute;
+}
+.lighting-error-text21 {
+  top: 95px;
+  left: 29px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lighting-error-text23 {
+  top: 95px;
+  left: 322px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.lighting-error-vector4 {
+  top: 60px;
+  left: 327px;
+  width: 29px;
+  height: 32px;
+  position: absolute;
+}

@@ -1,0 +1,562 @@
+.bedroom-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.bedroom-bedroom {
+  width: 389px;
+  height: 844px;
+  display: flex;
+  position: relative;
+  flex-shrink: 0;
+}
+.bedroom-i-phone141 {
+  top: 0px;
+  right: -1px;
+  width: 390px;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.bedroom-androidstatusbar {
+  top: 9px;
+  left: 16px;
+  width: 364px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.bedroom-background {
+  top: 0px;
+  left: 0px;
+  width: 364px;
+  height: 22px;
+  position: absolute;
+}
+.bedroom-icons {
+  gap: 6px;
+  top: 5px;
+  left: 281.477783203125px;
+  width: 70px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.bedroom-cellular {
+  width: 18px;
+  height: 12px;
+}
+.bedroom-wifi {
+  width: 16px;
+  height: 12px;
+}
+.bedroom-battery {
+  width: 24px;
+  height: 12px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bedroom-union {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 12px;
+  opacity: 0.40;
+  position: absolute;
+}
+.bedroom-capacity {
+  top: 2.117645263671875px;
+  left: 1.9730321168899536px;
+  width: 18px;
+  height: 8px;
+  position: absolute;
+  border-radius: 1.3333333730697632px;
+}
+.bedroom-text {
+  top: 3.6666667461395264px;
+  left: 12.133333206176758px;
+  color: var(--dl-color-wireframes_colors_text-legibility-highemphasis);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bedroom-androidnavbar {
+  top: 796px;
+  left: 0px;
+  width: 390px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.bedroom-rectangle2 {
+  top: 837px;
+  left: 135px;
+  width: 120px;
+  height: 7px;
+  position: absolute;
+  border-radius: 10px;
+}
+.bedroom-androidstatusbar1 {
+  top: 9px;
+  left: 16px;
+  width: 364px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.bedroom-background1 {
+  top: 0px;
+  left: 0px;
+  width: 364px;
+  height: 22px;
+  position: absolute;
+}
+.bedroom-icons1 {
+  gap: 6px;
+  top: 5px;
+  left: 281.477783203125px;
+  width: 70px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.bedroom-cellular1 {
+  width: 18px;
+  height: 12px;
+}
+.bedroom-wifi1 {
+  width: 16px;
+  height: 12px;
+}
+.bedroom-battery1 {
+  width: 24px;
+  height: 12px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.bedroom-union1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 12px;
+  opacity: 0.40;
+  position: absolute;
+}
+.bedroom-capacity1 {
+  top: 2.117645263671875px;
+  left: 1.9730321168899536px;
+  width: 18px;
+  height: 8px;
+  position: absolute;
+  border-radius: 1.3333333730697632px;
+}
+.bedroom-text02 {
+  top: 3.6666667461395264px;
+  left: 12.133333206176758px;
+  color: var(--dl-color-wireframes_colors_text-legibility-highemphasis);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bedroom-rectangle21 {
+  top: 837px;
+  left: 135px;
+  width: 120px;
+  height: 7px;
+  position: absolute;
+  border-radius: 10px;
+}
+.bedroom-text04 {
+  top: 60px;
+  left: 124px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Bold;
+  text-align: center;
+  font-family: Comfortaa;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bedroom-navlink {
+  display: contents;
+}
+.bedroom-container1 {
+  top: 231px;
+  left: 27px;
+  width: 336px;
+  height: 573px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  text-decoration: none;
+}
+.bedroom-rectangle3 {
+  left: 0px;
+  width: 156px;
+  bottom: 0px;
+  height: 157px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.bedroom-text06 {
+  left: 52px;
+  color: rgba(0, 0, 0, 1);
+  bottom: 39.33333206176758px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bedroom-rectangle5 {
+  top: 208px;
+  right: 0px;
+  width: 156px;
+  height: 157px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.bedroom-text11 {
+  color: rgba(0, 0, 0, 1);
+  right: 66.04166603088379px;
+  bottom: 255.33333206176758px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bedroom-rectangle6 {
+  top: 208px;
+  left: 1px;
+  width: 156px;
+  height: 157px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.bedroom-text13 {
+  left: 48px;
+  color: rgba(0, 0, 0, 1);
+  bottom: 255.33333206176758px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bedroom-text15 {
+  left: 45px;
+  color: rgba(0, 0, 0, 1);
+  bottom: 228.6666660308838px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bedroom-text17 {
+  color: rgba(0, 0, 0, 1);
+  right: 49.697914123535156px;
+  bottom: 228.6666660308838px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bedroom-rectangle1 {
+  top: 0px;
+  right: 0px;
+  width: 156px;
+  height: 157px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.bedroom-text19 {
+  top: 88px;
+  color: rgba(0, 0, 0, 1);
+  right: 42.08332824707031px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.bedroom-text21 {
+  top: 117px;
+  color: rgba(0, 0, 0, 1);
+  right: 47.697914123535156px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.bedroom-text23 {
+  left: 45px;
+  color: rgba(0, 0, 0, 1);
+  bottom: 14.666666030883789px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bedroom-vector {
+  top: 31px;
+  right: 57px;
+  width: 41px;
+  height: 39px;
+  position: absolute;
+}
+.bedroom-vector1 {
+  top: 247px;
+  left: 61px;
+  width: 34px;
+  height: 34px;
+  position: absolute;
+}
+.bedroom-vector2 {
+  top: 248px;
+  right: 63px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.bedroom-vector3 {
+  left: 63px;
+  width: 36px;
+  bottom: 84px;
+  height: 36px;
+  position: absolute;
+}
+.bedroom-rectangle8 {
+  right: 0px;
+  width: 156px;
+  bottom: 0px;
+  height: 157px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.bedroom-text25 {
+  left: 227px;
+  color: rgba(0, 0, 0, 1);
+  bottom: 40px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bedroom-vector4 {
+  left: 238px;
+  width: 35px;
+  bottom: 78px;
+  height: 33px;
+  position: absolute;
+}
+.bedroom-text27 {
+  left: 233px;
+  color: rgba(0, 0, 0, 1);
+  bottom: 13px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bedroom-navlink1 {
+  display: contents;
+}
+.bedroom-rectangle7 {
+  top: 231px;
+  left: 28px;
+  width: 156px;
+  height: 157px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+.bedroom-text29 {
+  top: 319px;
+  left: 69px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bedroom-text31 {
+  top: 348px;
+  left: 72px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bedroom-ellipse1 {
+  top: 117px;
+  left: 149px;
+  width: 92px;
+  height: 92px;
+  position: absolute;
+}
+.bedroom-navlink2 {
+  display: contents;
+}
+.bedroom-vector5 {
+  top: 263px;
+  left: 90px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  text-decoration: none;
+}
+.bedroom-vector6 {
+  top: 136px;
+  left: 164px;
+  width: 63px;
+  height: 54px;
+  position: absolute;
+}
+.bedroom-navlink3 {
+  display: contents;
+}
+.bedroom-vector7 {
+  top: 60px;
+  left: 37px;
+  width: 20px;
+  height: 35px;
+  position: absolute;
+  text-decoration: none;
+}
+.bedroom-text33 {
+  top: 95px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

@@ -1,0 +1,201 @@
+.login-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.login-i-phone141 {
+  top: 3px;
+  flex: 1;
+  left: 0px;
+  right: 0px;
+  width: 390px;
+  height: 844px;
+  margin: auto;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login-text {
+  top: 350px;
+  left: 32px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Bold;
+  text-align: center;
+  font-family: Comfortaa;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-androidstatusbar {
+  top: 9px;
+  left: 16px;
+  width: 364px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.login-background {
+  top: 0px;
+  left: 0px;
+  width: 364px;
+  height: 22px;
+  position: absolute;
+}
+.login-icons {
+  gap: 6px;
+  top: 5px;
+  left: 281.477783203125px;
+  width: 70px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.login-cellular {
+  width: 18px;
+  height: 12px;
+}
+.login-wifi {
+  width: 16px;
+  height: 12px;
+}
+.login-battery {
+  width: 24px;
+  height: 12px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.login-union {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 12px;
+  opacity: 0.40;
+  position: absolute;
+}
+.login-capacity {
+  top: 2.117645263671875px;
+  left: 1.9730321168899536px;
+  width: 18px;
+  height: 8px;
+  position: absolute;
+  border-radius: 1.3333333730697632px;
+}
+.login-text5 {
+  top: 3.6666667461395264px;
+  left: 12.133333206176758px;
+  color: var(--dl-color-wireframes_colors_text-legibility-highemphasis);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-androidnavbar {
+  top: 796px;
+  left: 0px;
+  width: 390px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.login-navlink {
+  display: contents;
+}
+.login-group2 {
+  top: 634px;
+  left: 16px;
+  width: 357px;
+  height: 45px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, 1);
+}
+.login-text7 {
+  top: 14px;
+  left: 154px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Black;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-textinput {
+  top: 501px;
+  left: 16px;
+  width: 357px;
+  height: 46px;
+  position: absolute;
+}
+.login-textinput1 {
+  top: 566px;
+  left: 16px;
+  width: 357px;
+  height: 46px;
+  position: absolute;
+}
+.login-arrow1 {
+  top: 115px;
+  left: 150px;
+  width: 101px;
+  height: 131px;
+  position: absolute;
+}
+.login-arrow2 {
+  top: 169px;
+  left: 141px;
+  width: 101px;
+  height: 131px;
+  position: absolute;
+}
+.login-rectangle2 {
+  top: 837px;
+  left: 135px;
+  width: 120px;
+  height: 7px;
+  position: absolute;
+  border-radius: 10px;
+}
+.login-vector {
+  top: 90px;
+  left: 99px;
+  width: 192px;
+  height: 200px;
+  position: absolute;
+}
+@media(max-width: 479px) {
+  .login-i-phone141 {
+    top: 44px;
+    right: -25px;
+  }
+}

@@ -1,0 +1,16 @@
+Introduction
+What do you think this app does?
+
+Each page
+Will the user be able to see the control for the action?
+Will the user recognise the control produces the desired effect? 
+After the action is taken, will the user understand the feedback and be able to proceed? 
+Are there any problems that may occur? 
+Was the language clear?
+What do you think of this page?
+What is your opinion on the buttons used on this page?
+
+Conclusion
+Any improvements that I can make?
+How easy was it to get to your end goal?
+How simple is the UI?
